@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Gyawali</h1>
 <h3 align="center">A passionate learner learning about webdev</h3>
 
-- 🔭 I’m currently working on **Blob**
+- 🔭 I’m currently working on [CodeWrite-2.0](https://codewrite-2.vercel.app/)
 
 - 🌱 I’m currently learning **Nodejs, MERN stack, Nextjs**
 
