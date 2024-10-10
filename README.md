@@ -13,6 +13,8 @@
  
 - 💬 Ask me about **React.js, Node.js**
 
+- 📖 Check out my blog [PG's Blog](https://blog.gyawaliprashant.com.np/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
