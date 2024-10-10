@@ -9,8 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashantGyawali](https://github.com/PrashantGyawali)
 
-- 🔍 Find more about me on [https://prashantgyawali.github.io/Portfolio/](https://prashantgyawali.github.io/Portfolio/)
-
+- 🔍 Find more about me on [https://gyawaliprashant.com.np/](https://gyawaliprashant.com.np/)  
+ 
 - 💬 Ask me about **React.js, Node.js**
 
 
