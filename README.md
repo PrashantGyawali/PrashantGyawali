@@ -11,7 +11,7 @@
 
 - 🔍 Find more about me on [https://gyawaliprashant.com.np/](https://gyawaliprashant.com.np/)  
  
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **React.js, Node.js, Next.js**
 
 - 📖 Check out my blog [PG's Blog](https://blog.gyawaliprashant.com.np/)
 
