@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashant Gyawali</h1>
-<h3 align="center">A passionate learner,learning about webdev</h3>
+<h3 align="center">A passionate learner, learning about webdev and ml</h3>
 
-- 🔭 I’m currently working on [CodeWrite-2.0](https://codewrite-2.vercel.app/)
+- 🔭 I’m currently working on [Tarkari](https://github.com/PrashantGyawali)
 
 - 🌱 I’m currently learning **Backend and Nextjs**
 
-- 👯 I’m looking to collaborate on [CodeWrite](https://github.com/PrashantGyawali/CodeWrite)
+- 👯 I’m looking to collaborate on [CodeWrite-2.0](https://codewrite-2.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashantGyawali](https://github.com/PrashantGyawali)
 
