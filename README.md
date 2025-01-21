@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend and Nextjs**
 
-- 👯 I’m looking to collaborate on [CodeWrite-2.0](https://codewrite-2.vercel.app/)
+- 👯 I’m looking to collaborate on [CodeWrite-2.0](https://github.com/PrashantGyawali/CodeWrite-2)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashantGyawali](https://github.com/PrashantGyawali)
 
